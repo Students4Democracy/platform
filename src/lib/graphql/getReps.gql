@@ -1,0 +1,6 @@
+query GetRepresentatives {
+  representatives {
+    name
+  }
+}
+
